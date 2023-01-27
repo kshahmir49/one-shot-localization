@@ -1,4 +1,4 @@
-# one-shot-localization
+# A Deep Learning Framework for Target Localization in Error-Prone Environment
 ## Abstract
 The use of Internet of Things (IoT) in environment monitoring has led to the
 development of Smart Environmental Monitoring (SEM) paradigm. Target
